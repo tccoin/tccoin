@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Currently Year 2 master student in University of Michigan.
-- 🔭 I am currently working on a SLAM system in [CURLY lab](https://curly.engin.umich.edu/).
+- 🔭 Currently PhD Student in [Computational Autonomy and Robotics Laboratory (CURLY)](https://curly.engin.umich.edu/curly) at University of Michigan.
 - 🦿 Previously worked in [RoboVigor Robotics Team](https://github.com/RoboVigor).
 - 📫 Feel free to visit [Klog](https://klog.app/#/zone/59d65a8667f356003a974456)!
 
